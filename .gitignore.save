@@ -1,0 +1,13 @@
+git add archivo_modificado.js   # Agregar un archivo específico
+git add .                       # Agregar todos los cambios en el directorio actual
+# Ignorar archivos .DS_Store
+.DS_Store
+
+# Otros archivos o patrones de archivos para ignorar
+archivo1.extension
+archivo2.extension
+clear
+
+
+
+
